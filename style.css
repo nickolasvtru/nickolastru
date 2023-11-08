@@ -1,5 +1,5 @@
 body {
-    background: #68c0f3f3
+    background: #2476a5f3
 }
 
 #banner {
@@ -19,17 +19,5 @@ p {
 }
 
 em strong {
-    color: #080808;
-}
-.itens {
-    font-style: italic;
-}
-
-.beneficios {
-    background: #FFFFFF;
-    padding: 20px;
-}
-
-h2 {
-    text-align: center;
+    color: #534444;
 }
