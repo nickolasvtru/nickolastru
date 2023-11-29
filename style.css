@@ -2,8 +2,10 @@ body {
     background: rgb(81, 159, 196)
 }
 
-
+#banner {
+    height: 50px;
 }
+
 
 h1 {
     text-align: center
