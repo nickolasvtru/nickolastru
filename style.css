@@ -1,5 +1,5 @@
 body {
-    background: rgb(81, 159, 196)
+    background: rgb(79, 172, 216)
 }
 
 #banner {
@@ -23,5 +23,5 @@ p {
 }
 
 em strong {
-    color: #e61010;
+    color: #ff0000;
 }
